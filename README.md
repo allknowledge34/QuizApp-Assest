@@ -5,7 +5,7 @@ A full-featured Online Quiz Android application built using **Java, XML, MVVM, a
 This project includes both **User and Admin applications**, real-time question management, timer-based quizzes, and a spin-to-win reward system for enhanced user engagement.
 
 ------------------------------------------------------------
-![Demo App](/app/src/main/res/drawable/maxresdefault-13.jpg)
+![Demo App](UserSideAssest/drawable/maxresdefault-13.jpg)
 ------------------------------------------------------------
 
 Perfect for:
